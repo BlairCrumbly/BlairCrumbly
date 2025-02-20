@@ -23,3 +23,10 @@ I also share my thoughts, insights, and lessons learned on my blog: [Check it ou
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+
+### 📌 Current Projects
+
+- 🚀 Developing an event management dashboard with React and TypeScript to streamline attendee tracking and scheduling
+- 🏗️ Learning AWS to improve cloud computing skills  
+- ✍️ Writing beginner friendly blogs for those who are trying to grasp complex concepts 
+
