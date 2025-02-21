@@ -21,7 +21,7 @@ I also share my thoughts, insights, and lessons learned on my blog: [Check it ou
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.pngkey.com/png/full/178-1787508_github-icon-download-at-icons8-white-github-icon.png" />
-<img align="left" alt="Bash" width="60px" style="padding-right:10px;" src="https://dwglogo.com/wp-content/uploads/2019/03/1800px-gnu_bash_logo-1024x705.png" />
+<img align="left" alt="Bash" width="60px" style="padding-right:10px;" src="https://media-hosting.imagekit.io//96beb1d5ea5044d5/168-1682787_bash-logo-shell-script-logo-hd-png-download-removebg-preview.png?Expires=1834715439&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=kKxQkJHN99dmtl-61ksYDO3ePHHOpc6nHV2i21vidD49FOT9AFLWiCp9nDnHMW73U7WzuOO4ZbGpiI92W~nWmXkHdkFW7wa2DO1fLdXMrt~suMnn2SbvJnOwnc4CTwldtzGJJlgJQFBRjiW-SBbKYIpT33L6GS1MDQZbRIeqOOdav2SOtmtJnBkES8ZozwbbHh47bd3X0rZ5kYptY0ILFZGizpZa2VGC57pWpd-uj4rK20QdMOd6IG7qqC3WDCpxVqowAnsrTpRvuTupmv2U2wgN3RNjAsLendhIXGK8MsWum4g8wsyGEUdGHYsDVXN37XAmRrBP25NAv5vl1otgAw__" />
 <br />
 <br />
 
