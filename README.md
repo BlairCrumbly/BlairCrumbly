@@ -21,7 +21,7 @@ I also share my thoughts, insights, and lessons learned on my blog: [Check it ou
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.pngkey.com/png/full/178-1787508_github-icon-download-at-icons8-white-github-icon.png" />
-<img align="left" alt="Bash" width="100px" style="padding-right:10px;" src="https://datascienceorigin.com/wp-content/uploads/2023/08/New-Project.png" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://www.pngfind.com/pngs/m/261-2614514_bash-logo-shell-script-logo-png-transparent-png.png" />
 <br />
 <br />
 
