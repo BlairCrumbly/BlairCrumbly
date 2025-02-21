@@ -1,6 +1,6 @@
 # 💫 Blair Crumbly
 
-**`Software Innovator (Developer/Problem-Solver/Collaborator)`**
+**`Software Engineer (Developer/Problem-Solver/Collaborator)`**
 
 I'm a passionate software engineer and problem solver, continuously expanding my knowledge to build innovative solutions. A Flatiron School student, I approach development with a learner’s mindset—breaking down complex problems, designing efficient systems, and writing clean, scalable code. Every project I create is built from the ground up, from brainstorming and planning to implementation and optimization. I thrive on learning new technologies, refining my craft, and pushing the boundaries of what I can build.
 
