@@ -29,7 +29,7 @@ I also share my thoughts, insights, and lessons learned on my blog: [Check it ou
 
 ### 📌 Current Projects
 
-- 🚀 Developing an event management dashboard with React and TypeScript to streamline attendee tracking and scheduling
+- 🚀 Developing a fullstack event management system with React, Typescript, and Java
 - 🏗️ Learning AWS to improve cloud computing skills  
 - ✍️ Writing beginner friendly blogs for those who are trying to grasp complex concepts 
 
