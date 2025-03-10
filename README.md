@@ -16,7 +16,7 @@ I also share my thoughts, insights, and lessons learned on my blog: [Check it ou
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://freepngimg.com/download/android/72537-icons-python-programming-computer-social-tutorial.png" />
-<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://miro.medium.com/v2/resize:fit:1200/1*R07X0FhpZ_VupPZP3NpacA.png" />
+<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://dmtyylqvwgyxw.cloudfront.net/instances/132/uploads/images/custom_image/image/48276/wide_blob?v=1644513750" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
