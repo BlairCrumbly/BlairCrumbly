@@ -31,7 +31,7 @@ I also share my thoughts, insights, and lessons learned on my blog: [Check it ou
 ### 📬 Get in Touch!
 
 <div style="text-align:center;gap: 30px;">
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank">
+  <a style="align="center width="100%" href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank">
     <img align="center" alt="Gmail" width="30px" src="https://static.vecteezy.com/system/resources/previews/022/484/516/original/google-mail-gmail-icon-logo-symbol-free-png.png"/>
   </a>
   <a href="https://www.linkedin.com/in/blair-crumbly-36a317309/" target="_blank">
