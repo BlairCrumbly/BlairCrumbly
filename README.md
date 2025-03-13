@@ -33,7 +33,7 @@ I also share my thoughts, insights, and lessons learned on my blog: [Check it ou
 
 
 
-<div style="align-items: center;">
+<div>
     <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank">
         <img alt="Gmail" height="30px" style="padding-right: 10px;" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" />
     </a>
