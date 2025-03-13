@@ -30,8 +30,15 @@ I also share my thoughts, insights, and lessons learned on my blog: [Check it ou
 
 ### 📬 Get in Touch!
 
-[![Gmail](https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png){:width="30px"}](https://mail.google.com/mail/u/0/#inbox?compose=new)
-[![LinkedIn](https://static.vecteezy.com/system/resources/previews/017/339/624/original/linkedin-icon-free-png.png){:width="30px"}](https://www.linkedin.com/in/blair-crumbly-36a317309/)
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank">
+    <img alt="Gmail" width="50px" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"/>
+  </a>
+  <a href="https://www.linkedin.com/in/blair-crumbly-36a317309/" target="_blank">
+    <img alt="LinkedIn" width="30px" src="https://statisticsglobe.com/wp-content/uploads/2021/02/linkedin-logo-sg.png"/>
+  </a>
+</div>
+
 
 
 
