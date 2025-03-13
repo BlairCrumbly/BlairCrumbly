@@ -36,7 +36,6 @@ I also share my thoughts, insights, and lessons learned on my blog: [Check it ou
         <img alt="Gmail" width="40px" style="vertical-align: middle; padding-right: 10px;" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"/>
     </a>
     <a href="https://www.linkedin.com/in/blair-crumbly-36a317309/" target="_blank">
-        <img alt="LinkedIn" width="30px" style="vertical-align: middle;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
     </a>
 
 </div>
