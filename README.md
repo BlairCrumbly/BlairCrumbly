@@ -31,14 +31,13 @@ I also share my thoughts, insights, and lessons learned on my blog: [Check it ou
 ### 📬 Get in Touch!
 
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank">
-    <img alt="Gmail" width="50px" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"/>
-  </a>
-  <a href="https://www.linkedin.com/in/blair-crumbly-36a317309/" target="_blank">
-    <img alt="LinkedIn" width="30px" src="https://statisticsglobe.com/wp-content/uploads/2021/02/linkedin-logo-sg.png"/>
-  </a>
-</div>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank">
+    <img alt="Gmail" width="50px" style="vertical-align: middle; padding-right: 10px;" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"/>
+</a>
+<a href="https://www.linkedin.com/in/blair-crumbly-36a317309/" target="_blank">
+    <img alt="LinkedIn" width="50px" style="vertical-align: middle;" src="https://statisticsglobe.com/wp-content/uploads/2021/02/linkedin-logo-sg.png"/>
+</a>
+
 
 #
 
