@@ -35,7 +35,7 @@ I also share my thoughts, insights, and lessons learned on my blog: [Check it ou
     <img align="left" alt="Gmail" width="30px" style="padding-right:10px;" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"/>
 </a>
 <a href="https://www.linkedin.com/in/blair-crumbly-36a317309/" target="_blank">
-    <img align="left" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://www.keesingtechnologies.com/wp-content/uploads/2018/07/Linkedin-Icon.png"/>
+    <img align="left" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://statisticsglobe.com/wp-content/uploads/2021/02/linkedin-logo-sg.png"/>
 </a>
 
 #
