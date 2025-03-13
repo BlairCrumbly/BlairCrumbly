@@ -30,7 +30,7 @@ I also share my thoughts, insights, and lessons learned on my blog: [Check it ou
 
 ### 📬 Get in Touch!
 
-<div style="display: flex; align-items: center; gap: 10px;">
+<div style="display: flex; align-items: center; gap: 20px;">
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank">
     <img alt="Gmail" width="30px" src="https://static.vecteezy.com/system/resources/previews/022/484/516/original/google-mail-gmail-icon-logo-symbol-free-png.png"/>
   </a>
@@ -38,9 +38,6 @@ I also share my thoughts, insights, and lessons learned on my blog: [Check it ou
     <img alt="LinkedIn" width="30px" src="https://statisticsglobe.com/wp-content/uploads/2021/02/linkedin-logo-sg.png"/>
   </a>
 </div>
-
-
-
 
 #
 
