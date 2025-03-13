@@ -31,13 +31,10 @@ I also share my thoughts, insights, and lessons learned on my blog: [Check it ou
 ### 📬 Get in Touch!
 
 <div>
-    <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank" style="text-decoration: none !important; color: inherit !important; display: inline-block;">
-        <img alt="Gmail" height="30px" style="padding-right: 10px; vertical-align: bottom;" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" />
-    </a>
-    <a href="https://www.linkedin.com/in/blair-crumbly-36a317309/" target="_blank" style="text-decoration: none !important; color: inherit !important; display: inline-block;">
-        <img alt="LinkedIn" height="30px" style="padding-right: 10px; vertical-align: bottom;" src="https://static.vecteezy.com/system/resources/previews/017/339/624/original/linkedin-icon-free-png.png" />
-    </a>
+    <img alt="Gmail" height="30px" style="padding-right: 10px; vertical-align: bottom; cursor: pointer;" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" onclick="window.open('https://mail.google.com/mail/u/0/#inbox?compose=new', '_blank')" />
+    <img alt="LinkedIn" height="30px" style="padding-right: 10px; vertical-align: bottom; cursor: pointer;" src="https://static.vecteezy.com/system/resources/previews/017/339/624/original/linkedin-icon-free-png.png" onclick="window.open('https://www.linkedin.com/in/blair-crumbly-36a317309/', '_blank')" />
 </div>
+
 
 #
 
