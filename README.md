@@ -36,3 +36,9 @@ I also share my thoughts, insights, and lessons learned on my blog: [Check it ou
 
 ### 📬 Get in Touch!
 
+
+<a href="blaircrumbly@gmail.com" target="_blank">
+    <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"/>
+</a>
+
+
