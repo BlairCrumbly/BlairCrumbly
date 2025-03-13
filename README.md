@@ -33,11 +33,12 @@ I also share my thoughts, insights, and lessons learned on my blog: [Check it ou
 
 
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank">
-    <img alt="Gmail" width="40px" style="display: block; float: left; padding-right: 10px;" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"/>
+    <img align="left" alt="Gmail" width="30px" style="padding-right:10px;" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" />
 </a>
-<a href="https://www.linkedin.com/in/blair-crumbly-36a317309/" target="_blank">
-    <img alt="LinkedIn" width="40px" style="display: block; float: left; padding-right: 10px;" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"/>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank">
+    <img align="left" alt="Gmail" width="30px" style="padding-right:10px;" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" />
 </a>
+
 
 
 
