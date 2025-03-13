@@ -32,10 +32,10 @@ I also share my thoughts, insights, and lessons learned on my blog: [Check it ou
 
 <div style="display: flex; gap: 30px;">
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank" style="padding-left: 30px;">
-    <img alt="Gmail" width="30px" src="https://static.vecteezy.com/system/resources/previews/022/484/516/original/google-mail-gmail-icon-logo-symbol-free-png.png"/>
+    <img align="center" alt="Gmail" width="30px" src="https://static.vecteezy.com/system/resources/previews/022/484/516/original/google-mail-gmail-icon-logo-symbol-free-png.png"/>
   </a>
   <a href="https://www.linkedin.com/in/blair-crumbly-36a317309/" target="_blank">
-    <img alt="LinkedIn" width="30px" src="https://statisticsglobe.com/wp-content/uploads/2021/02/linkedin-logo-sg.png"/>
+    <img align="center" alt="LinkedIn" width="30px" src="https://statisticsglobe.com/wp-content/uploads/2021/02/linkedin-logo-sg.png"/>
   </a>
 </div>
 
