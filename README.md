@@ -34,3 +34,6 @@ I also share my thoughts, insights, and lessons learned on my blog: [Check it ou
 - 🏗️ Learning AWS to improve cloud computing skills  
 - ✍️ Writing beginner friendly blogs for those who are trying to grasp complex concepts 
 
+### 📬 Get in Touch!
+[![Email](https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png)](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge)](blaircrumbly@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/blair-crumbly-36a317309/)
