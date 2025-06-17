@@ -45,7 +45,7 @@ I also share my thoughts, insights, and lessons learned on my blog: [Check it ou
 
 ### 📌 Current Projects
 
-- 🚀 Developing a fullstack journaling application: Luma 🌱
+- 🚀 Deploying a fullstack journaling application: Luma 🌱
 - 🏗️ Learning AWS to improve cloud computing skills  
 - ✍️ Writing beginner friendly blogs for those who are trying to grasp complex concepts 
 
