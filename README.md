@@ -22,7 +22,7 @@ I also share my thoughts, insights, and lessons learned on my blog: [Check it ou
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.pngkey.com/png/full/178-1787508_github-icon-download-at-icons8-white-github-icon.png" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://i0.wp.com/datascienceorigin.com/wp-content/uploads/2023/08/New-Project.png?resize=1068%2C501&ssl=1" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://tiermaker.com/images/media/hero_images/2024/16528685/programming-languages-16528685/165286851719278403.png" />
 <br />
 <br />
 
