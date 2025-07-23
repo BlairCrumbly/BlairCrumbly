@@ -26,7 +26,9 @@ I also share my thoughts, insights, and lessons learned on my blog: [Check it ou
 <br />
 <br />
 
-#
+
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="21dc919d-4cee-4f15-a673-0f226cdc7b21" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ### 📬 Get in Touch!
 
