@@ -2,7 +2,7 @@
 
 **`Software Engineer (Developer/Problem-Solver/Collaborator)`**
 
-I'm a passionate software engineer with a problem-solving mindset, dedicated to building innovative, scalable solutions. As a Flatiron School student, I embrace continuous learning, tackling challenges from ideation to implementation. I thrive on exploring new technologies and pushing creative boundaries to deliver impactful results.
+experimenting with ideas and documenting my growth as a developer...while Googling error messages like it's my full-time job. 
 
 I also share my thoughts, insights, and lessons learned on my blog: [Check it out!](https://medium.com/@blaircrumbly)
 <br />
