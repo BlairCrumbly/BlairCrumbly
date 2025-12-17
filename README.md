@@ -48,7 +48,7 @@
 
 - 🚀 Deploying a fullstack journaling application: Luma 🌱
 - 🏗️ Learning AWS to improve cloud computing skills  
-- 🌀 Building small tools or scripts to automate workflows: shows problem‑solving beyond tutorials.
+- 🌀 Building small tools or scripts to automate workflows
 
 
 
