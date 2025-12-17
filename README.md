@@ -21,7 +21,8 @@
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="[https://www.pngkey.com/png/full/178-1787508_github-icon-download-at-icons8-white-github-icon.png](https://www.bing.com/images/search?view=detailV2&ccid=rT9j5ULi&id=EE91D68E624E169E413A581451FA59CA183DAE1F&thid=OIP.rT9j5ULi8xjdQsy3rjlsigHaHa&mediaurl=https%3A%2F%2Fluisgon18.github.io%2FETL-and-Data-Visualization-Python-SQL-and-Powerbi%2Fgithub.png&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.ad3f63e542e2f318dd42ccb7ae396c8a%3Frik%3DH649GMpZ%252blEUWA%26pid%3DImgRaw%26r%3D0&exph=512&expw=512&q=Purple+Color+Logo+of+GitHub&form=IRPRST&ck=DAC31FEDA491D9CE27C221591B818D7D&selectedindex=0&itb=1&cw=2297&ch=823&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_bxsnhr%252BG*cp_A183A6049A56A32A6DDAF210908A82E8*mid_119EE7D4E260CA4D228FD71BA4B5A8B2F6B1DD7E*thid_OIP.bxsnhr-GpXH8krOAthS5OAHaHw&vt=0&sim=11&iss=VSI&ajaxhist=0&ajaxserp=0)" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/f4b66f1b-84fd-460f-b4fd-12cf135c294c" />
+
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://tiermaker.com/images/media/hero_images/2024/16528685/programming-languages-16528685/165286851719278403.png" />
 <br />
 <br />
