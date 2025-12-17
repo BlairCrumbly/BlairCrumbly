@@ -4,7 +4,7 @@
 
 ***experimenting with ideas and documenting my growth as an engineer...while searching error messages like it's my full-time job.***
 
-*I also share my thoughts, insights, and lessons learned on my blog: [Check it out!](https://medium.com/@blaircrumbly)
+*I also share my thoughts, insights, and lessons learned on my blog: [Check it out!](https://medium.com/@blaircrumbly)*
 <br />
 
 #
