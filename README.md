@@ -48,7 +48,7 @@
 
 - 🚀 Deploying a fullstack journaling application: Luma 🌱
 - 🏗️ Learning AWS to improve cloud computing skills  
-- ✍️ Writing beginner friendly blogs for those who are trying to grasp complex concepts 
+- 🌀 Building small tools or scripts to automate workflows: shows problem‑solving beyond tutorials.
 
 
 
