@@ -21,7 +21,7 @@
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="GitHub" width="30.7px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/f4b66f1b-84fd-460f-b4fd-12cf135c294c" />
+<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/f4b66f1b-84fd-460f-b4fd-12cf135c294c" />
 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://tiermaker.com/images/media/hero_images/2024/16528685/programming-languages-16528685/165286851719278403.png" />
 <br />
