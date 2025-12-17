@@ -2,7 +2,7 @@
 
 **`Software Engineer (Developer/Problem-Solver/Collaborator)`**
 
-***experimenting with ideas and documenting my growth as a developer...while searching error messages like it's my full-time job.***
+***experimenting with ideas and documenting my growth as a SWE...while searching error messages like it's my full-time job.***
 
 I also share my thoughts, insights, and lessons learned on my blog: [Check it out!](https://medium.com/@blaircrumbly)
 <br />
