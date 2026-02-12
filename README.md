@@ -1,6 +1,6 @@
 # 💫 Blair Crumbly
 
-**`Software Engineer | Always learning |`**
+**`Software Engineer | Always learning `**
 
 ***experimenting with ideas and documenting my growth as an engineer...while searching error messages like it's my full-time job.***
 
